@@ -35,7 +35,7 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+build/RElementease
 
 # Dependency directories
 node_modules/
@@ -72,7 +72,7 @@ typings/
 .env
 .env.test
 
-# parcel-bundler cache (https://parceljs.org/)
+# parcElement-bundler cache (https://parcElementjs.org/)
 .cache
 
 # Next.js build output
