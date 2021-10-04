@@ -6,6 +6,7 @@
 ## Screenshot:
 ![Screenshot of weather dashboard](./assets/Capture.PNG)
 
-## Deployed web site:
+## Deployed web site: 
+[Weather Dashboard](https://lazrekm.github.io/weather-dashboard/)
 
 
