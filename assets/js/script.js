@@ -17,7 +17,7 @@ function initPage() {
   const APIKey = "c9a9ed03a355403f4cb9a36e931c0b4a";
 
   function getWeather(cityName) {
-    //  execute a current condition get request from open weather map api
+    //  Execute a current condition get request from open weather map api
     let queryURL =
       "https://api.openweathermap.org/data/2.5/weather?q=" +
       cityName +
